@@ -1,7 +1,7 @@
 # prueba
 *Esto es una __prueba de markdown__*
 
->Esto es un texto entre comillas
+> Esto es un texto entre comillas
 
 1. First
 1. Second
