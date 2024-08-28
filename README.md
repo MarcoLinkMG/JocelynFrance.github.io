@@ -21,4 +21,4 @@ This is `code`.
 
 ![Link an image.](https://mifoto.cl/wp-content/uploads/2023/12/Fotografias.png)
 
-[link externo a LinkMG](htpps://www.linkmg.cl)
+[link externo a LinkMG](https://www.linkmg.cl)
